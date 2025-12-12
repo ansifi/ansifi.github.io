@@ -1,0 +1,9 @@
+Adapts Folder 
+- 02_pandas_basics
+- 06_supply_chain_analytics
+- 01_python_basics
+- 00_LEARNING_PATH.md
+
+Goals:
+1. Learn finance analytics domain and apply to new jobs related to it
+2. Enroll into an MSc PG course to get certified in finance analytics
